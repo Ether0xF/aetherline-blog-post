@@ -74,7 +74,7 @@ a {
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  text-decoration: underline;
+  text-decoration: underline dotted;
 }
 
 /* Headings */
@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #6797ac;
+  /* color: #6797ac; */
   text-rendering: optimizeLegibility;
 }
 h1 {

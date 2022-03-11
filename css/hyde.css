@@ -93,7 +93,7 @@ html {
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: underline;
+  text-decoration: underline dotted;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
@@ -230,9 +230,21 @@ a.sidebar-nav-item:focus {
 .theme-base-0d .related-posts li a:hover {
   color: #6a9fb5;
 }
+.theme-base-0d .post h1,
+.theme-base-0d .post h2,
+.theme-base-0d .post h3,
+.theme-base-0d .post h4,
+.theme-base-0d .post h5,
+.theme-base-0d .post h6 {
+  color: #6a9fb5;
+}
 
-.theme-base-0d .body h1{
-  color: #6797ac;
+.theme-base-0d .post .tags {
+  display: block;
+  margin-top: 0rem;
+  margin-bottom: 1rem;
+  color: #6a9fb5;
+  text-decoration: underline dotted;
 }
 
 /* Magenta */
