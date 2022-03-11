@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>星极 on AetherLine</title>
+    <link>http://example.org/tags/%E6%98%9F%E6%9E%81/</link>
+    <description>Recent content in 星极 on AetherLine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/%E6%98%9F%E6%9E%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>观星</title>
+      <link>http://example.org/post/%E8%A7%82%E6%98%9F/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/%E8%A7%82%E6%98%9F/</guid>
+      <description>【点梗】如果星极在老师这里也可以写的话想看老师写星极喝赫默……！</description>
+    </item>
+    
+  </channel>
+</rss>

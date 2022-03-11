@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on AetherLine</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on AetherLine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>塞赫</title>
+      <link>http://example.org/tags/%E5%A1%9E%E8%B5%AB/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/%E5%A1%9E%E8%B5%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>星极</title>
+      <link>http://example.org/tags/%E6%98%9F%E6%9E%81/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/%E6%98%9F%E6%9E%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>赫默</title>
+      <link>http://example.org/tags/%E8%B5%AB%E9%BB%98/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/%E8%B5%AB%E9%BB%98/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
