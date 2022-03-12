@@ -239,13 +239,13 @@ a.sidebar-nav-item:focus {
   color: #6a9fb5;
 }
 
-.theme-base-0d .post .tags {
+/* .theme-base-0d .post .tags {
   display: block;
   margin-top: 0rem;
   margin-bottom: 1rem;
   color: #6a9fb5;
   text-decoration: underline dotted;
-}
+} */
 
 /* Magenta */
 .theme-base-0e .sidebar {

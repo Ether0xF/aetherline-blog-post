@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>塞赫 on AetherLine</title>
     <link>https://aetherline-blog-s79jq.ondigitalocean.app/tags/%E5%A1%9E%E8%B5%AB/</link>
     <description>Recent content in 塞赫 on AetherLine</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh</language>
     <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://aetherline-blog-s79jq.ondigitalocean.app/tags/%E5%A1%9E%E8%B5%AB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>告白</title>
