@@ -2,71 +2,179 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>短篇 on AetherLine</title>
-    <link>https://aetherline-blog-s79jq.ondigitalocean.app/tags/%E7%9F%AD%E7%AF%87/</link>
+    <link>https://aetherline.xyz/tags/%E7%9F%AD%E7%AF%87/</link>
     <description>Recent content in 短篇 on AetherLine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 05 May 2022 15:06:46 +0800</lastBuildDate><atom:link href="https://aetherline-blog-s79jq.ondigitalocean.app/tags/%E7%9F%AD%E7%AF%87/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Feb 2024 18:21:14 +0800</lastBuildDate><atom:link href="https://aetherline.xyz/tags/%E7%9F%AD%E7%AF%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SusurrusCordis</title>
+      <link>https://aetherline.xyz/post/susurruscordis/</link>
+      <pubDate>Sat, 03 Feb 2024 18:21:14 +0800</pubDate>
+      
+      <guid>https://aetherline.xyz/post/susurruscordis/</guid>
+      <description>这也是，我能给你的唯一回答。</description>
+    </item>
+    
+    <item>
+      <title>故事书</title>
+      <link>https://aetherline.xyz/post/%E6%95%85%E4%BA%8B%E4%B9%A6/</link>
+      <pubDate>Sun, 23 Jul 2023 11:46:33 +0800</pubDate>
+      
+      <guid>https://aetherline.xyz/post/%E6%95%85%E4%BA%8B%E4%B9%A6/</guid>
+      <description>提问箱点的孤星后塞雷娅和伊芙利特的故事。回到家发现离12点没多少时间了，结果果然没赶上。</description>
+    </item>
+    
+    <item>
+      <title>海之深处</title>
+      <link>https://aetherline.xyz/post/%E6%B5%B7%E4%B9%8B%E6%B7%B1%E5%A4%84/</link>
+      <pubDate>Thu, 20 Jul 2023 00:47:32 +0800</pubDate>
+      
+      <guid>https://aetherline.xyz/post/%E6%B5%B7%E4%B9%8B%E6%B7%B1%E5%A4%84/</guid>
+      <description>水手塞和深海恶魔赫的点梗。从厨房的黑洞里掉落了黑暗料理。算是18世纪水手paro。但我觉得写得并不克系，就当是一个普通的幻想故事吧。有时感觉paro要重新构筑世界观，很难说一个故事里写被paro的角色的部分够不够50%。</description>
+    </item>
+    
+    <item>
+      <title>锚点</title>
+      <link>https://aetherline.xyz/post/%E9%94%9A%E7%82%B9/</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aetherline.xyz/post/%E9%94%9A%E7%82%B9/</guid>
+      <description>点梗。白赫。有点渐行渐远的鸟儿们。</description>
+    </item>
+    
+    <item>
+      <title>宿醉</title>
+      <link>https://aetherline.xyz/post/%E5%AE%BF%E9%86%89/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aetherline.xyz/post/%E5%AE%BF%E9%86%89/</guid>
+      <description>点梗。倾诉会因倾听者而别有意义。</description>
+    </item>
+    
+    <item>
+      <title>To Buy You A Mockingbird(5)</title>
+      <link>https://aetherline.xyz/post/mockingbird05/</link>
+      <pubDate>Fri, 01 Jul 2022 15:49:40 +0800</pubDate>
+      
+      <guid>https://aetherline.xyz/post/mockingbird05/</guid>
+      <description>旧作归档。ABO设定但赫A塞O，和若有若无的哨向。车技稀烂警告。</description>
+    </item>
+    
+    <item>
+      <title>To Buy You A Mockingbird(4)</title>
+      <link>https://aetherline.xyz/post/mockingbird04/</link>
+      <pubDate>Fri, 01 Jul 2022 15:48:40 +0800</pubDate>
+      
+      <guid>https://aetherline.xyz/post/mockingbird04/</guid>
+      <description>旧作归档。ABO设定但赫A塞O，和若有若无的哨向。车技稀烂警告。</description>
+    </item>
+    
+    <item>
+      <title>To Buy You A Mockingbird(3)</title>
+      <link>https://aetherline.xyz/post/mockingbird03/</link>
+      <pubDate>Fri, 01 Jul 2022 15:46:40 +0800</pubDate>
+      
+      <guid>https://aetherline.xyz/post/mockingbird03/</guid>
+      <description>旧作归档。ABO设定但赫A塞O，和若有若无的哨向。车技稀烂警告。</description>
+    </item>
+    
+    <item>
+      <title>To Buy You A Mockingbird(2)</title>
+      <link>https://aetherline.xyz/post/mockingbird02/</link>
+      <pubDate>Fri, 01 Jul 2022 15:44:40 +0800</pubDate>
+      
+      <guid>https://aetherline.xyz/post/mockingbird02/</guid>
+      <description>旧作归档。ABO设定但赫A塞O，和若有若无的哨向。车技稀烂警告。</description>
+    </item>
+    
+    <item>
+      <title>To Buy You A Mockingbird(1)</title>
+      <link>https://aetherline.xyz/post/mockingbird01/</link>
+      <pubDate>Fri, 01 Jul 2022 12:54:40 +0800</pubDate>
+      
+      <guid>https://aetherline.xyz/post/mockingbird01/</guid>
+      <description>旧作归档。ABO设定但赫A塞O，和若有若无的哨向。车技稀烂警告。</description>
+    </item>
+    
+    <item>
+      <title>Honey Dream</title>
+      <link>https://aetherline.xyz/post/honeydream/</link>
+      <pubDate>Tue, 28 Jun 2022 18:43:41 +0800</pubDate>
+      
+      <guid>https://aetherline.xyz/post/honeydream/</guid>
+      <description>忘了什么时候写的旧作的归档。一个蜜糖色的梦。有车，但是慢悠悠。</description>
+    </item>
+    
     <item>
       <title>晴天樱花（二）</title>
-      <link>https://aetherline-blog-s79jq.ondigitalocean.app/post/%E6%99%B4%E5%A4%A9%E6%A8%B1%E8%8A%B1%E4%BA%8C/</link>
+      <link>https://aetherline.xyz/post/%E6%99%B4%E5%A4%A9%E6%A8%B1%E8%8A%B1%E4%BA%8C/</link>
       <pubDate>Thu, 05 May 2022 15:06:46 +0800</pubDate>
       
-      <guid>https://aetherline-blog-s79jq.ondigitalocean.app/post/%E6%99%B4%E5%A4%A9%E6%A8%B1%E8%8A%B1%E4%BA%8C/</guid>
+      <guid>https://aetherline.xyz/post/%E6%99%B4%E5%A4%A9%E6%A8%B1%E8%8A%B1%E4%BA%8C/</guid>
       <description>&lt;strong&gt;僕らはいつか大人になる、そばに君がいるのかな&lt;/strong&gt;</description>
     </item>
     
     <item>
       <title>晴天樱花（一）</title>
-      <link>https://aetherline-blog-s79jq.ondigitalocean.app/post/%E6%99%B4%E5%A4%A9%E6%A8%B1%E8%8A%B1%E4%B8%80/</link>
+      <link>https://aetherline.xyz/post/%E6%99%B4%E5%A4%A9%E6%A8%B1%E8%8A%B1%E4%B8%80/</link>
       <pubDate>Sat, 02 Apr 2022 03:11:26 +0800</pubDate>
       
-      <guid>https://aetherline-blog-s79jq.ondigitalocean.app/post/%E6%99%B4%E5%A4%A9%E6%A8%B1%E8%8A%B1%E4%B8%80/</guid>
+      <guid>https://aetherline.xyz/post/%E6%99%B4%E5%A4%A9%E6%A8%B1%E8%8A%B1%E4%B8%80/</guid>
       <description>当たり前の風が吹く。繰り返す日常。穏やかな日差しが君を照らす。</description>
     </item>
     
     <item>
+      <title>Sparkling I.</title>
+      <link>https://aetherline.xyz/post/sparkling-i/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://aetherline.xyz/post/sparkling-i/</guid>
+      <description>&lt;strong&gt;随挖随坑年龄操作。夏日的故事。&lt;/strong&gt;</description>
+    </item>
+    
+    <item>
       <title>Every Single Memory</title>
-      <link>https://aetherline-blog-s79jq.ondigitalocean.app/post/every-single-memory/</link>
+      <link>https://aetherline.xyz/post/every-single-memory/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://aetherline-blog-s79jq.ondigitalocean.app/post/every-single-memory/</guid>
+      <guid>https://aetherline.xyz/post/every-single-memory/</guid>
       <description>所以在你临走之前能否再停留片刻，去重新经历每一次往事？</description>
     </item>
     
     <item>
       <title>An Apple X</title>
-      <link>https://aetherline-blog-s79jq.ondigitalocean.app/post/an-apple-x/</link>
+      <link>https://aetherline.xyz/post/an-apple-x/</link>
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aetherline-blog-s79jq.ondigitalocean.app/post/an-apple-x/</guid>
+      <guid>https://aetherline.xyz/post/an-apple-x/</guid>
       <description>无营养苹果味Kiss。曾经的睡前零食。文中引用的诗歌出自拜伦的《唐璜》。</description>
     </item>
     
     <item>
       <title>下雪的日子</title>
-      <link>https://aetherline-blog-s79jq.ondigitalocean.app/post/%E4%B8%8B%E9%9B%AA%E7%9A%84%E6%97%A5%E5%AD%90/</link>
+      <link>https://aetherline.xyz/post/%E4%B8%8B%E9%9B%AA%E7%9A%84%E6%97%A5%E5%AD%90/</link>
       <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://aetherline-blog-s79jq.ondigitalocean.app/post/%E4%B8%8B%E9%9B%AA%E7%9A%84%E6%97%A5%E5%AD%90/</guid>
+      <guid>https://aetherline.xyz/post/%E4%B8%8B%E9%9B%AA%E7%9A%84%E6%97%A5%E5%AD%90/</guid>
       <description>写于节礼日的下午茶。</description>
     </item>
     
     <item>
       <title>Easy Way Out</title>
-      <link>https://aetherline-blog-s79jq.ondigitalocean.app/post/easy-way-out/</link>
+      <link>https://aetherline.xyz/post/easy-way-out/</link>
       <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://aetherline-blog-s79jq.ondigitalocean.app/post/easy-way-out/</guid>
+      <guid>https://aetherline.xyz/post/easy-way-out/</guid>
       <description>从层层圈套中解脱的方法有时粗暴又简单。标题来自LowRoar同名歌曲。</description>
     </item>
     
     <item>
       <title>Cigarette XX</title>
-      <link>https://aetherline-blog-s79jq.ondigitalocean.app/post/cigarette-xx/</link>
+      <link>https://aetherline.xyz/post/cigarette-xx/</link>
       <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://aetherline-blog-s79jq.ondigitalocean.app/post/cigarette-xx/</guid>
+      <guid>https://aetherline.xyz/post/cigarette-xx/</guid>
       <description>一次不完美的接触。</description>
     </item>
     
